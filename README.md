@@ -1,15 +1,22 @@
-# Olá!! Eu sou o Gabriel Paiva 👋
+# Hey dev!👋
 
-Estudante de Ciência da Computação apaixonado por transformar dados em insights e explorar as infinitas possibilidades da Computação. Atualmente, foco meus estudos em **Data Science** e **Programação em python**.
+I'm Gabriel Paiva, a computer science  student based in Brazil.
 
+I create and transform whatever I imagine in a powerful insight or a program.
+ 
+My main stack is Python, SQL, Power bi and Excel. My favorite tools are figma, notion and trello.
+
+I've got a bunch of local projects storaged and organized with git.
+
+Always looking for study something new and now I'm focused more than ever!
 ---
 
-### 🚀 Sobre mim
+### 🚀 Some facts about me
 
-- 🔭 **Desenvolvendo:** Aperfeiçoando habilidades em modelagem de dados e arquitetura cloud.
-- 🌱 **Estudando:** Bacharelado em Ciência da Computação.
-- 🤔 **Interesses:** Adoraria receber dicas de projetos de Dados, Cloud Computing e eventos de tech.
-- 😄 **Idiomas:** Português (Nativo) e Inglês (focado no C2 para carreira internacional).
+- 🔭 **Goals:** I love to solve problems and capture data. That is why I am looking for cloud and data opportunities.
+- 🌱 **Studies:** Degree in Computer Science and Google Cloud Data Analytics Certificate in progress.
+- 🤔 **Languages** Fluent in English and Portuguese
+- 😄 **Hobbies:** I love to play keyboard and plot-driven books.
 
 ---
 
@@ -18,21 +25,11 @@ Estudante de Ciência da Computação apaixonado por transformar dados em insigh
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQL" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="40" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="C#" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="JavaScript" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="40" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="40" width="40" />
-</div>
-
----
-
-### 📊 Estatísticas
-
-<div align="center">
-  <a href="https://beacons.ai/g4brielPaiva">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielPaiva&layout=compact&langs_count=16&theme=dracula"/>
-  </a>
 </div>
 
 ---
