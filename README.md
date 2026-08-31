@@ -2,13 +2,13 @@
 
 I'm Gabriel Paiva, a computer science  student based in Brazil.
 
-I create and transform whatever I imagine in a powerful insight or a program.
+transforming raw data into actionable insights and scalable solutions.
  
-My main stack is Python, SQL, Power bi and Excel. My favorite tools are figma, notion and trello.
+My main stack is **Python, SQL, Power bi** and **Excel**. My favorite tools are **Figma, Notion** and **Trello**.
 
-I've got a bunch of local projects storaged and organized with git.
+I've got a bunch of local projects managed and version-controlled with **Git**.
 
-Always looking for study something new and now I'm focused more than ever!
+Always looking to learn something new
 ---
 
 ### 🚀 Some facts about me
