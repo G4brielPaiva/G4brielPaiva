@@ -1,4 +1,4 @@
-# Hey dev!👋
+# Hi There!👋
 
 I'm Gabriel Paiva, a computer science  student based in Brazil.
 
